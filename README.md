@@ -39,6 +39,18 @@ I work as the **Chief Operating Officer at Trexif Inc Pvt. Ltd.**, where I help 
 
 ---
 
+## 🛠️ Programming & Technologies
+
+- **Languages:** Python, JavaScript/TypeScript, Bash, SQL
+- **Backend:** Django, Django REST Framework, FastAPI
+- **Frontend:** React, Vite, Tailwind CSS
+- **Database:** PostgreSQL, MySQL, SQLite
+- **DevOps:** Docker, Nginx, Gunicorn, Redis, Celery
+- **Security:** VAPT, authentication, authorization, secure deployment
+- **Tools:** Git, GitHub, Linux, Cloudflare, Postman
+
+---
+
 ## 📦 Products & Projects
 
 ### 🎓 EDTREX  
@@ -71,17 +83,6 @@ AI-based agriculture assistant for farmers with insect detection, multilingual s
 
 ---
 
-## 🛠️ Programming & Technologies
-
-- **Languages:** Python, JavaScript/TypeScript, Bash, SQL
-- **Backend:** Django, Django REST Framework, FastAPI
-- **Frontend:** React, Vite, Tailwind CSS
-- **Database:** PostgreSQL, MySQL, SQLite
-- **DevOps:** Docker, Nginx, Gunicorn, Redis, Celery
-- **Security:** VAPT, authentication, authorization, secure deployment
-- **Tools:** Git, GitHub, Linux, Cloudflare, Postman
-
----
 
 ## 📊 GitHub Activity
 
