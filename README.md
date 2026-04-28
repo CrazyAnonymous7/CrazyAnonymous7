@@ -40,6 +40,29 @@ I work as the **Chief Operating Officer at Trexif Inc Pvt. Ltd.**, where I help 
 ---
 
 ## 🛠️ Programming & Technologies
+![Python](https://img.shields.io/badge/Python-Language-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue?style=flat-square&logo=typescript)
+![Bash](https://img.shields.io/badge/Bash-Shell-black?style=flat-square&logo=gnubash)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square)
+
+![Django](https://img.shields.io/badge/Django-Backend-darkgreen?style=flat-square&logo=django)
+![DRF](https://img.shields.io/badge/DRF-API-red?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple?style=flat-square&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwindcss)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?style=flat-square&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-Cache-red?style=flat-square&logo=redis)
+![Celery](https://img.shields.io/badge/Celery-Task%20Queue-green?style=flat-square)
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square&logo=visualstudiocode)
 
 - **Languages:** Python, JavaScript/TypeScript, Bash, SQL
 - **Backend:** Django, Django REST Framework, FastAPI
