@@ -86,6 +86,7 @@ AI-based agriculture assistant for farmers with insect detection, multilingual s
 
 - 💼 LinkedIn: [anujaya-bhattarai](https://www.linkedin.com/in/anujaya-bhattarai)
 - 🌐 Company: **Trexif Inc Pvt. Ltd.**
+- 🏢 Professional Portfolio: anujayabhattarai.com.np
 - 📧 Email: anujaya@trexif.com
 
 ---
