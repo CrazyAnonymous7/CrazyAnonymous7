@@ -51,8 +51,23 @@ HRMS and Payroll platform with applicant tracking, employee lifecycle management
 ### 🔐 Security & Infrastructure Projects  
 Worked on secure infrastructure, server deployment, VAPT, monitoring, and enterprise IT support projects.
 
+### 🏛️ Kathmandu Metropolitan City — Data Centre & Network Migration  
+Led TREXIF’s secured AMC contract for data centre optimization, municipal network migration, infrastructure modernization, monitoring, and support.
+
+### 🔐 VAPT for Public Procurement Monitoring Office  
+Performed vulnerability assessment and penetration testing for a government institution to strengthen cyber defense and reduce security risks.
+
+### 🛠️ PortMaster  
+Python-based network security tool for port scanning, service enumeration, and vulnerability detection.
+
+### 📧 MailMiner  
+Python-based email harvesting and scraping utility built using BeautifulSoup and regex for cybersecurity research and data extraction.
+
+### 🐧 Linux Skill Development Lab  
+Dockerized CTF-style training lab created to teach Linux administration, networking, and security concepts to engineering students.
+
 ### 🌾 Krishi Sathi  
-AI-based agriculture assistant for farmers with insect detection, multilingual support, and voice-to-text features.
+AI-based agriculture assistant for farmers with insect detection, multilingual support, and voice-based interaction features.
 
 ---
 
